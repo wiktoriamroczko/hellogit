@@ -145,5 +145,12 @@
         "email": "alamakota@interia.pl",
         "github": "alamakota",
         "group": "WZISS1-1111"
-    }
+    },
+	{
+        "firstname": "Andrzej",
+        "lastname": "Krucan",
+        "email": "andrzejkrucan@gmail.com",
+        "github": "krucan-a",
+        "group": "student"
+    },
 }
