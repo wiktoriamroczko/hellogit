@@ -20,6 +20,13 @@
         <email>alamakota@interia.pl</email>
         <github>alamakota</github>
         <group>WZISS1-1111</group>
+	</student>
+	<student>
+        <firstname>Jakub</firstname>
+        <lastname>Cebo</lastname>
+        <email>s215720@uek.krakow.pl</email>
+        <github>jcebo</github>
+        <group>Student</group>
     </student>
 </students>
 	
