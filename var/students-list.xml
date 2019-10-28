@@ -8,14 +8,20 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
-<<<<<<< HEAD
 	<student>
         <firstname>Volodymyr</firstname>
         <lastname>Brintos</lastname>
         <email>brintsov@gmail.com</email>
         <github>VolodymyrBrintsov</github>
         <group>1111</group>
-=======
+</student>
+	<student>
+        <firstname>Kacper</firstname>
+        <lastname>Bassara</lastname>
+        <email>kacper.bassara@gmail.com</email>
+        <github>BassaraK</github>
+        <group>WZISS1-1111</group>
+    </student>
     <student>
         <firstname>Krzysztof</firstname>
         <lastname>Górski</lastname>
@@ -23,19 +29,18 @@
         <github>gorskik</github>
         <group>WZISS1-1111</group>
     </student>
-    <student>
-        <firstname>Ala</firstname>
-        <lastname>Makota</lastname>
-        <email>alamakota@interia.pl</email>
-        <github>alamakota</github>
-        <group>WZISS1-1111</group>
-	</student>
 	<student>
         <firstname>Jakub</firstname>
         <lastname>Cebo</lastname>
         <email>s215720@uek.krakow.pl</email>
         <github>jcebo</github>
         <group>Student</group>
->>>>>>> 29fbf0c8349aa16bc04123702f6fc68dcd380c64
     </student>
+  <student>
+        <firstname>Ala</firstname>
+        <lastname>Makota</lastname>
+        <email>alamakota@interia.pl</email>
+        <github>alamakota</github>
+        <group>WZISS1-1111</group>
+	</student>
 </students>
