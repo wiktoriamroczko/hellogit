@@ -6,10 +6,31 @@
         "github": "Fiona84"
     },
 	{
+<<<<<<< HEAD
         "firstname": "Adam",
         "lastname": "Ciesielski",
         "email": "ciesielskiadam6@gmail.com",
         "github": "ciesielskiadam98",
 		"group": "WZISS1-1111"
+=======
+        "firstname": "Krzysztof",
+        "lastname": "Górski",
+        "email": "kgorski399@gmail.com",
+        "github": "gorskik"
+    },
+	{
+        "firstname": "Ala",
+        "lastname": "Makota",
+        "email": "alamakota@interia.pl",
+        "github": "alamakota",
+		"group": "WZISS1-1111"
+	},
+	{
+        "firstname": "Jakub",
+        "lastname": "Cebo",
+        "email": "s215720@uek.krakow.pl",
+        "github": "jcebo"
+		"group": "Students"
+>>>>>>> 29fbf0c8349aa16bc04123702f6fc68dcd380c64
     }
 }
