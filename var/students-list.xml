@@ -7,12 +7,32 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
-	 <student>
+	<student>
         <firstname>Aleksander</firstname>
         <lastname>Bajor</lastname>
         <email>alebaj9917@gmail.com</email>
         <github>aleksanderbajor</github>
         <group>WZIS1-1111</group>
+    <student>
+        <firstname>Krzysztof</firstname>
+        <lastname>Górski</lastname>
+        <email>kgorski399@gmail.com</email>
+        <github>gorskik</github>
+        <group>WZISS1-1111</group>
+    </student>
+    <student>
+        <firstname>Ala</firstname>
+        <lastname>Makota</lastname>
+        <email>alamakota@interia.pl</email>
+        <github>alamakota</github>
+        <group>WZISS1-1111</group>
+	</student>
+	<student>
+        <firstname>Jakub</firstname>
+        <lastname>Cebo</lastname>
+        <email>s215720@uek.krakow.pl</email>
+        <github>jcebo</github>
+        <group>Student</group>
     </student>
 </students>
 	

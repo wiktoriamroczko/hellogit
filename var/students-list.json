@@ -11,5 +11,25 @@
         "email": "alebaj9917@gmail.com",
         "github": "aleksanderbajor"
 		"group": "WZIS1-1111"
+	},
+	{
+        "firstname": "Krzysztof",
+        "lastname": "Górski",
+        "email": "kgorski399@gmail.com",
+        "github": "gorskik"
+    },
+	{
+        "firstname": "Ala",
+        "lastname": "Makota",
+        "email": "alamakota@interia.pl",
+        "github": "alamakota",
+		"group": "WZISS1-1111"
+	},
+	{
+        "firstname": "Jakub",
+        "lastname": "Cebo",
+        "email": "s215720@uek.krakow.pl",
+        "github": "jcebo"
+		"group": "Students"
     }
 }
