@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
@@ -7,5 +8,11 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+	<student>
+        <firstname>Volodymyr</firstname>
+        <lastname>Brintos</lastname>
+        <email>brintsov@gmail.com</email>
+        <github>VolodymyrBrintsov</github>
+        <group>1111</group>
+    </student>
 </students>
-	
