@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
@@ -7,6 +8,68 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+	<student>
+        <firstname>Aleksander</firstname>
+        <lastname>Gorazda</lastname>
+        <email>gorazdaaleksander@gmail.com</email>
+        <github>AleksanderGorazda</github>
+        <group>WZISS1-111</group>
+    </student>
+	<student>
+        <firstname>Filip</firstname>
+        <lastname>Jaszczyk</lastname>
+        <email>filipqwerty32@gmail.com</email>
+        <github>FilipJaszczyk</github>
+        <group>WZIS1-1111</group>
+    </student>
+    <student>
+        <firstname>Wiktor</firstname>
+        <lastname>Karnia</lastname>
+        <email>wiktor1341@o2.pl</email>
+        <github>WiktorKarnia</github>
+        <group>Students</group>
+    </student>
+    <student>
+        <firstname>Dominik</firstname>
+        <lastname>Borowy</lastname>
+        <email>dominikborowy@gmail.com</email>
+        <github>dborowy</github>
+        <group>WZISS1-1111</group>
+    </student>
+	<student>
+        <firstname>Michał</firstname>
+        <lastname>Janaszek</lastname>
+        <email>michta0010@wp.pl.pl</email>
+        <github>JanaszekM</github>
+        <group>WZISS1-1111</group>
+</student>
+	<student>
+        <firstname>Marcin</firstname>
+        <lastname>Bruzda</lastname>
+        <email>marcin.bru@outlook.pl</email>
+        <github>mbruzda</github>
+        <group>WZISS1-1111</group>
+    </student>
+<student>
+        <firstname>Dominik</firstname>
+        <lastname>Bąk</lastname>
+        <email>dominikbak93@gmail.com</email>
+        <github>bakdominik</github>
+	</student>
+<student>
+        <firstname>Volodymyr</firstname>
+        <lastname>Brintos</lastname>
+        <email>brintsov@gmail.com</email>
+        <github>VolodymyrBrintsov</github>
+        <group>1111</group>
+</student>
+	<student>
+        <firstname>Kacper</firstname>
+        <lastname>Bassara</lastname>
+        <email>kacper.bassara@gmail.com</email>
+        <github>BassaraK</github>
+        <group>WZISS1-1111</group>
+    </student>
     <student>
         <firstname>Krzysztof</firstname>
         <lastname>Górski</lastname>
@@ -14,19 +77,18 @@
         <github>gorskik</github>
         <group>WZISS1-1111</group>
     </student>
-    <student>
-        <firstname>Ala</firstname>
-        <lastname>Makota</lastname>
-        <email>alamakota@interia.pl</email>
-        <github>alamakota</github>
-        <group>WZISS1-1111</group>
-    </student>
-    <student>
+	<student>
         <firstname>Jakub</firstname>
         <lastname>Cebo</lastname>
         <email>s215720@uek.krakow.pl</email>
         <github>jcebo</github>
         <group>Student</group>
     </student>
+  <student>
+        <firstname>Ala</firstname>
+        <lastname>Makota</lastname>
+        <email>alamakota@interia.pl</email>
+        <github>alamakota</github>
+        <group>WZISS1-1111</group>
+	</student>
 </students>
-	
