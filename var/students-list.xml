@@ -7,5 +7,12 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+	<student>
+        <firstname>Marcin</firstname>
+        <lastname>Bruzda</lastname>
+        <email>marcin.bru@outlook.pl</email>
+        <github>mbruzda</github>
+        <group>WZISS1-1111</group>
+    </student>
 </students>
 	
