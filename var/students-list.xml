@@ -1,12 +1,19 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
-    <student>
+     <student>
         <firstname>Katarzyna</firstname>
         <lastname>Wojcik</lastname>
         <email>fiona_17@interia.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
+    </student>
+    <student>
+        <firstname>Piotr</firstname>
+        <lastname>Woźniak</lastname>
+        <email>sev.webmaster.k@gmail.com</email>
+        <github>TraceOnBrainOff</github>
+        <group>WZISS1-1112</group>
     </student>
     <student>
         <firstname>Aleksander</firstname>
