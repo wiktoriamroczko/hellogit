@@ -1,6 +1,14 @@
 
 {
-    {
+ {
+        "firstname": "Ivan",
+        "lastname": "Kudybyn",
+        "email": "ivan4kydubun@gmail.com",
+        "github": "ego6ua",
+        "grupa": "student"
+    },
+    
+{
         "firstname": "Katarzyna",
         "lastname": "Wójcik",
         "email": "fiona_17@interia.pl",
