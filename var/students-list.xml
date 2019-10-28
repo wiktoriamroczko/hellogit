@@ -8,6 +8,13 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+  <student>
+        <firstname>Michał</firstname>
+        <lastname>Rusinowski</lastname>
+        <email>michalr101@gmail.com</email>
+        <github>mrusinowski</github>
+        <group>WZIS1-1112</group>
+    </student>
     <student>
         <firstname>Aleksander</firstname>
         <lastname>Bajor</lastname>
