@@ -9,6 +9,13 @@
         <group>Teacher</group>
     </student>
 	<student>
+        <firstname>Aleksander</firstname>
+        <lastname>Gorazda</lastname>
+        <email>gorazdaaleksander@gmail.com</email>
+        <github>AleksanderGorazda</github>
+        <group>WZISS1-111</group>
+    </student>
+	<student>
         <firstname>Filip</firstname>
         <lastname>Jaszczyk</lastname>
         <email>filipqwerty32@gmail.com</email>
