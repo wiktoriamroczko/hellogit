@@ -8,6 +8,13 @@
 		"grupa": "Teachers"
     },
 	{
+        "firstname": "Aleksander",
+        "lastname": "Bajor",
+        "email": "alebaj9917@gmail.com",
+        "github": "aleksanderbajor"
+		"group": "WZIS1-1111"
+	},
+	{
         "firstname": "Roman",
         "lastname": "Iankovskii",
         "email": "study@romanjankowski.com",
