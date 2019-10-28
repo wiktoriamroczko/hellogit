@@ -7,5 +7,12 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+	    <student>
+        <firstname>Dominik</firstname>
+        <lastname>Bąk</lastname>
+        <email>dominikbak93@gmail.com</email>
+        <github>bakdominik</github>
+        <group>Student</group>
+    </student>
 </students>
 	
