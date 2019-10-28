@@ -26,12 +26,19 @@
         "github": "WiktorKarnia"
 },
 	{
+        "firstname": "Arkadiusz",
+        "lastname": "Kapron",
+        "email": "arekkap99@gmail.com",
+        "github": "arekkap"
+		"group": "WZISS1-1111"
+	},
+{
         "firstname": "Dominik",
         "lastname": "Borowy",	
         "email": "dominikborowy@gmail.com",
         "github": "dborowy"
 		"group": "WZISS1-1111"
-    }
+    },
 {
         "firstname": "Michał",
         "lastname": "Janaszek",
