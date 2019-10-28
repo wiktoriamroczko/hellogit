@@ -91,6 +91,13 @@
         <group>WZISS1-1111</group>
     </student>
     <student>
+        <firstname>Anna</firstname>
+        <lastname>Frączek</lastname>
+        <email>ania.f20000618@gmail.com</email>
+        <github>annafraczek</github>
+        <group>WZISS1-1111</group>
+    </student>
+<student>
         <firstname>Krzysztof</firstname>
         <lastname>Górski</lastname>
         <email>kgorski399@gmail.com</email>
