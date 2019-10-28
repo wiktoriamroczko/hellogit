@@ -1,8 +1,15 @@
+
 {
     {
         "firstname": "Katarzyna",
         "lastname": "Wójcik",
         "email": "fiona_17@interia.pl",
         "github": "Fiona84"
-    }
+    },
+	{
+		"firstname": "Weronika",
+		"lastname": "Jankowska"
+		"email": "w.jankowska.cracow@gmail.com",
+		"github": "Jankowska00"
+	}
 }
