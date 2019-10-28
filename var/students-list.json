@@ -4,5 +4,12 @@
         "lastname": "Wójcik",
         "email": "fiona_17@interia.pl",
         "github": "Fiona84"
+    },
+	{
+        "firstname": "Dominik",
+        "lastname": "Borowy",	
+        "email": "dominikborowy@gmail.com",
+        "github": "dborowy"
+		"group": "WZISS1-1111"
     }
 }
