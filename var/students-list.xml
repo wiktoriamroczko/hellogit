@@ -160,4 +160,12 @@
         <github>alamakota</github>
         <group>WZISS1-1111</group>
     </student>
+    <student>
+        <firstname>Sebastian</firstname>
+        <lastname>Kudła</lastname>
+        <email>kudseb42@gmail.com</email>
+        <github>kudseb</github>
+        <group>WZISS1-1112</group>
+    </student>
+
 </students>
