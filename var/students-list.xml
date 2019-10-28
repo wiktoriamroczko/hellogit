@@ -160,4 +160,11 @@
         <github>alamakota</github>
         <group>WZISS1-1111</group>
     </student>
+    <student>
+	<firstname>Marcin</firstname>
+	<lastname>Twarog</lastname>
+	<email>marcintw42@gmail.com</email>
+	<github>twarogm</github>
+	<group>WZISS1-1112</gropu>
+    </student>
 </students>
