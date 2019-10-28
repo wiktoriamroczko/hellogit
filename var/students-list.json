@@ -24,7 +24,14 @@
         "email": "s215720@uek.krakow.pl",
         "github": "jcebo"
 		"group": "Students"
-    }
+    },
+	{
+        "firstname": "Dominik",
+        "lastname": "Bąk",
+        "email": "dominikbak93@gmail.com",
+        "github": "bakdominik"
+		"group": "student"
+  },
     {
         "firstname": "Kacper",
         "lastname": "Bassara",
