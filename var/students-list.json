@@ -47,6 +47,12 @@
 		"group": "WZISS1-1111"
 	},
 	{
+        "firstname": "Grzegorz",
+        "lastname": "Glinka",
+        "email": "grzegorzg199@gmail.com",
+        "github": "GlinkaG"
+},
+	{
         "firstname": "Marcin",
         "lastname": "Bruzda",
         "email": "marcin.bru@op.pl",
