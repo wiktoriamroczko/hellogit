@@ -15,6 +15,13 @@
         <github>aleksanderbajor</github>
         <group>WZIS1-1111</group>
     </student>
+<student>
+        <firstname>Oskar</firstname>
+        <lastname>Kozaczka</lastname>
+        <email>oskaro0@vp.pl</email>
+        <github>OskarKozaczka</github>
+        <group>WZISS-1</group>
+    </student>
     <student>
         <firstname>Roman</firstname>
         <lastname>Iankovksii</lastname>
@@ -23,11 +30,11 @@
         <group>WZISS1-1111</group>
     </student>
     <student>
-        <firstname>Oskar</firstname>
-        <lastname>Kozaczka</lastname>
-        <email>oskaro0@vp.pl</email>
-        <github>OskarKozaczka</github>
-        <group>WZISS-1</group>
+        <firstname>Wojciech</firstname>
+        <lastname>Trygar</lastname?>
+        <email>chandelier.wt@gmail.com</email>
+        <github>Wtrygar</github>
+        <group>WZISS1-1112</group>
     </student>
     <student>
         <firstname>Weronika</firstname>
