@@ -4,5 +4,12 @@
         "lastname": "Wójcik",
         "email": "fiona_17@interia.pl",
         "github": "Fiona84"
+    },
+	 {
+        "firstname": "Jakub",
+        "lastname": "Cebo",
+        "email": "s215720@uek.krakow.pl",
+        "github": "jcebo"
+		"group": "Students"
     }
 }
