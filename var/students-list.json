@@ -5,28 +5,91 @@
         "email": "fiona_17@interia.pl",
         "github": "Fiona84"
     },
+    {
+        "firstname": "Filip",
+        "lastname": "Jaszczyk",
+        "email": "filipqwerty32@gmail.com",
+        "github": "FilipJAszczyk"
+		"group": "WZIS1-1111"
+	},
+	{
+
+        "firstname": "Aleksander",
+        "lastname": "Gorazda",
+        "email": "gorazdaaleksander@gmail.com",
+        "github": "AleksanderGorazda"
+},
+	{
+        "firstname": "Wiktor",
+        "lastname": "Karnia",
+        "email": "wikitor1341@o2.pl",
+        "github": "WiktorKarnia"
+},
+	{
+        "firstname": "Arkadiusz",
+        "lastname": "Kapron",
+        "email": "arekkap99@gmail.com",
+        "github": "arekkap"
+		"group": "WZISS1-1111"
+	},
+{
+        "firstname": "Dominik",
+        "lastname": "Borowy",	
+        "email": "dominikborowy@gmail.com",
+        "github": "dborowy"
+		"group": "WZISS1-1111"
+    },
+{
+        "firstname": "Michał",
+        "lastname": "Janaszek",
+        "email": "michta0010@wp.pl",
+        "github": "JanaszekM"
+		"group": "WZISS1-1111"
+	},
 	{
         "firstname": "Grzegorz",
         "lastname": "Glinka",
         "email": "grzegorzg199@gmail.com",
         "github": "GlinkaG"
+},
+	{
+        "firstname": "Marcin",
+        "lastname": "Bruzda",
+        "email": "marcin.bru@op.pl",
+        "github": "mbruzda"
+		"group": "WZIIS1-1111"
+    },
+{
         "firstname": "Krzysztof",
         "lastname": "Górski",
         "email": "kgorski399@gmail.com",
         "github": "gorskik"
     },
 	{
+        "firstname": "Jakub",
+        "lastname": "Cebo",
+        "email": "s215720@uek.krakow.pl",
+        "github": "jcebo"
+		"group": "Students"
+    },
+	{
+        "firstname": "Dominik",
+        "lastname": "Bąk",
+        "email": "dominikbak93@gmail.com",
+        "github": "bakdominik"
+		"group": "student"
+  },
+    {
+        "firstname": "Kacper",
+        "lastname": "Bassara",
+        "email": "kacper.bassara@gmail.com",
+        "github": "BassaraK"
+    },
+{
         "firstname": "Ala",
         "lastname": "Makota",
         "email": "alamakota@interia.pl",
         "github": "alamakota",
 		"group": "WZISS1-1111"
-	},
-	{
-        "firstname": "Jakub",
-        "lastname": "Cebo",
-        "email": "s215720@uek.krakow.pl",
-        "github": "jcebo"
-	"group": "Students"
-    }
+	}
 }
