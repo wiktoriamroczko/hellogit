@@ -7,5 +7,12 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+    <student>
+        <firstname>Dominik</firstname>
+        <lastname>Borowy</lastname>
+        <email>dominikborowy@gmail.com</email>
+        <github>dborowy</github>
+        <group>WZISS1-1111</group>
+    </student>
 </students>
 	
