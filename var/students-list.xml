@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
     <student>
@@ -13,6 +14,33 @@
         <email>michta0010@wp.pl.pl</email>
         <github>JanaszekM</github>
         <group>WZISS1-1111</group>
+</student>
+	<student>
+        <firstname>Marcin</firstname>
+        <lastname>Bruzda</lastname>
+        <email>marcin.bru@outlook.pl</email>
+        <github>mbruzda</github>
+        <group>WZISS1-1111</group>
+    </student>
+<student>
+        <firstname>Dominik</firstname>
+        <lastname>Bąk</lastname>
+        <email>dominikbak93@gmail.com</email>
+        <github>bakdominik</github>
+	</student>
+<student>
+        <firstname>Volodymyr</firstname>
+        <lastname>Brintos</lastname>
+        <email>brintsov@gmail.com</email>
+        <github>VolodymyrBrintsov</github>
+        <group>1111</group>
+</student>
+	<student>
+        <firstname>Kacper</firstname>
+        <lastname>Bassara</lastname>
+        <email>kacper.bassara@gmail.com</email>
+        <github>BassaraK</github>
+        <group>WZISS1-1111</group>
     </student>
     <student>
         <firstname>Krzysztof</firstname>
@@ -21,13 +49,6 @@
         <github>gorskik</github>
         <group>WZISS1-1111</group>
     </student>
-    <student>
-        <firstname>Ala</firstname>
-        <lastname>Makota</lastname>
-        <email>alamakota@interia.pl</email>
-        <github>alamakota</github>
-        <group>WZISS1-1111</group>
-	</student>
 	<student>
         <firstname>Jakub</firstname>
         <lastname>Cebo</lastname>
@@ -35,5 +56,11 @@
         <github>jcebo</github>
         <group>Student</group>
     </student>
+  <student>
+        <firstname>Ala</firstname>
+        <lastname>Makota</lastname>
+        <email>alamakota@interia.pl</email>
+        <github>alamakota</github>
+        <group>WZISS1-1111</group>
+	</student>
 </students>
-	
