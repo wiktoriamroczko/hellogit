@@ -8,6 +8,13 @@
         "grupa": "Teachers"
     },
     {
+        "firstname": "Piotr",
+        "lastname": "Woźniak",
+        "email": "sev.webmaster.k@gmail.com",
+        "github": "TraceOnBrainOff",
+        "group": "WZISS1-1112"
+    },
+    {
         "firstname": "Aleksander",
         "lastname": "Bajor",
         "email": "alebaj9917@gmail.com",
@@ -19,6 +26,13 @@
         "lastname": "Rusinowski",
         "email": "michalr101@gmail.com",
         "github": "mrusinowski",
+		"group": "WZIS1-1112"
+	},
+	{
+        "firstname": "Patryk",
+        "lastname": "Tabiś",
+        "email": "p.tabis@protonmail.com",
+        "github": "ptabis",
         "group": "WZIS1-1112"
     },
     {
@@ -152,5 +166,12 @@
         "email": "alamakota@interia.pl",
         "github": "alamakota",
         "group": "WZISS1-1111"
+    },
+	{
+        "firstname": "Sebastian",
+        "lastname": "Kudła",
+        "email": "kudseb42@gmail.com",
+        "github": "kudseb",
+		"group": "WZISS1-1112"
     }
 }
