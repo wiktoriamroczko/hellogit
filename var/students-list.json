@@ -3,6 +3,14 @@
         "firstname": "Katarzyna",
         "lastname": "Wójcik",
         "email": "fiona_17@interia.pl",
-        "github": "Fiona84"
+        "github": "Fiona84",
+		"grupa": "Teachers"
+    },
+	{
+        "firstname": "Karol",
+        "lastname": "Janik",
+        "email": "ffaannpl@gmail.com",
+        "github": "KarolJanik-IS",
+		"grupa": "WZISS1-1111"
     }
 }
