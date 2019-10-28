@@ -7,7 +7,14 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
-	<student>
+    <student>
+        <firstname>Krzysztof</firstname>
+        <lastname>Górski</lastname>
+        <email>kgorski399@gmail.com</email>
+        <github>gorskik</github>
+        <group>WZISS1-1111</group>
+    </student>
+    <student>
         <firstname>Ala</firstname>
         <lastname>Makota</lastname>
         <email>alamakota@interia.pl</email>
