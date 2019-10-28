@@ -6,18 +6,18 @@
         "github": "Fiona84"
     },
 	{
+        "firstname": "Marcin",
+        "lastname": "Bruzda",
+        "email": "marcin.bru@op.pl",
+        "github": "mbruzda"
+		"group": "WZIIS1-1111"
+    },
+{
         "firstname": "Krzysztof",
         "lastname": "Górski",
         "email": "kgorski399@gmail.com",
         "github": "gorskik"
     },
-	{
-        "firstname": "Ala",
-        "lastname": "Makota",
-        "email": "alamakota@interia.pl",
-        "github": "alamakota",
-		"group": "WZISS1-1111"
-	},
 	{
         "firstname": "Jakub",
         "lastname": "Cebo",
@@ -37,5 +37,12 @@
         "lastname": "Bassara",
         "email": "kacper.bassara@gmail.com",
         "github": "BassaraK"
-    }
+    },
+{
+        "firstname": "Ala",
+        "lastname": "Makota",
+        "email": "alamakota@interia.pl",
+        "github": "alamakota",
+		"group": "WZISS1-1111"
+	}
 }
