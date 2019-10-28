@@ -8,6 +8,14 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+<students>
+    <student>
+        <firstname>Kamil</firstname>
+        <lastname>Krzych</lastname>
+        <email>kamil.krzych@poczta.fm</email>
+        <github>KKrzych09</github>
+        <group>WZISS1-1112</group>
+    </student>
     <student>
         <firstname>Aleksander</firstname>
         <lastname>Bajor</lastname>
