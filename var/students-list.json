@@ -1,3 +1,4 @@
+
 {
     {
         "firstname": "Katarzyna",
@@ -6,6 +7,12 @@
 "github": "Fiona84",
 		"grupa": "Teachers"
     },
+	{
+		"firstname": "Weronika",
+		"lastname": "Jankowska"
+		"email": "w.jankowska.cracow@gmail.com",
+		"github": "Jankowska00"
+	},
     {
         "firstname": "Kinga",
         "lastname": "Borycka",
