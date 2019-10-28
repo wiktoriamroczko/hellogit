@@ -7,7 +7,15 @@
         <email>fiona_17@interia.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
+    </student
+    <student>
+        <firstname>Kamil</firstname>
+        <lastname>Szczotka</lastname>
+        <email>s215621@student.uek.krakow.pl</email>
+        <github>SzczotkaKamil</github>
+        <group>WZIS1-1112</group>
     </student>
+>
     <student>
         <firstname>Aleksander</firstname>
         <lastname>Bajor</lastname>
