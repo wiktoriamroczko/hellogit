@@ -140,17 +140,17 @@
         "github": "BassaraK"
     },
     {
-        "firstname": "Ala",
-        "lastname": "Makota",
-        "email": "alamakota@interia.pl",
-        "github": "alamakota",
-        "group": "WZISS1-1111"
-    },
-    {
         "firstname": "Paweł",
         "lastname": "Pluta",
         "email": "pawelpluta58@gmail.com",
         "github": "PawelPlutaUek20",
         "group": "WZISS1-1112"
+    },
+    {
+        "firstname": "Ala",
+        "lastname": "Makota",
+        "email": "alamakota@interia.pl",
+        "github": "alamakota",
+        "group": "WZISS1-1111"
     }
 }
