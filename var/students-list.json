@@ -7,7 +7,7 @@
         "github": "Fiona84",
         "grupa": "Teachers"
     },
-	 {
+	  {
         "firstname": "Viktoriia",
         "lastname": "Kravchuk",
         "email": "vikakravchuk2@gmail.com",
@@ -174,7 +174,14 @@
         "github": "alamakota",
         "group": "WZISS1-1111"
     },
-    {
+	  {
+        "firstname": "Rafal",
+        "lastname": "Pussy",
+        "email": "enzetpl@gmail.com",
+        "github": "enzetpl",
+        "group": "WZISS1-1112"
+    },
+	  {
         "firstname": "Sebastian",
         "lastname": "Staszczyk",
         "email": "sebastianstaszczyk.1999@gmail.com",
