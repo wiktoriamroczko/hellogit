@@ -1,12 +1,26 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
-    <student>
+     <student>
         <firstname>Katarzyna</firstname>
         <lastname>Wojcik</lastname>
         <email>fiona_17@interia.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
+    </student>
+    <student>
+        <firstname>Piotr</firstname>
+        <lastname>Woźniak</lastname>
+        <email>sev.webmaster.k@gmail.com</email>
+        <github>TraceOnBrainOff</github>
+        <group>WZISS1-1112</group>
+    </student>
+    <student>
+        <firstname>Patryk</firstname>
+        <lastname>Tabiś</lastname>
+        <email>p.tabis@protonmail.com</email>
+        <github>ptabis</github>
+        <group>WZIS1-1112</group>
     </student>
     <student>
         <firstname>Aleksander</firstname>
@@ -160,11 +174,18 @@
         <github>alamakota</github>
         <group>WZISS1-1111</group>
     </student>
-	<student>
+	  <student>
         	<firstname>Rafał</firstname>
         	<lastname>Rębilas</lastname>
         	<email>s215790@student.uek.krakow.pl</email>
         	<github>RRebilas</github>
         	<group>WZISS1-1112</group>
     	</student>
+      <student>
+          <firstname>Sebastian</firstname>
+          <lastname>Kudła</lastname>
+          <email>kudseb42@gmail.com</email>
+          <github>kudseb</github>
+          <group>WZISS1-1112</group>
+      </student>
 </students>
