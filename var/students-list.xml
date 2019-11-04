@@ -17,7 +17,7 @@
      </student>
      <student>
         <firstname>Katarzyna</firstname>
-        <lastname>Wojcik</lastname>
+        <lastname>Wójcik</lastname>
         <email>fiona_17@interia.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
@@ -44,11 +44,11 @@
         <group>WZIS1-1112</group>
     </student>
     <student>
-        <firstname>Aleksander</firstname>
-        <lastname>Bajor</lastname>
-        <email>alebaj9917@gmail.com</email>
-        <github>aleksanderbajor</github>
-        <group>WZIS1-1111</group>
+        <firstname>Andzrej</firstname>
+        <lastname>Krucan</lastname>
+        <email>andrzejkrucan@gmail.com</email>
+        <github>krucan-a</github>
+        <group>WZIS1-1112</group>
     </student>
     <student>
         <firstname>Emil</firstname>

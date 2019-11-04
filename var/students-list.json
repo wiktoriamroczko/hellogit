@@ -189,6 +189,13 @@
         "group": "WZISS1-1111"
     },
 	  {
+        "firstname": "Andrzej",
+        "lastname": "Krucan",
+        "email": "andrzejkrucan@gmail.com",
+        "github": "krucan-a",
+        "group": "student"
+    },
+	  {
         "firstname": "Rafal",
         "lastname": "Pussy",
         "email": "enzetpl@gmail.com",
