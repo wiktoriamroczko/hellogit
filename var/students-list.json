@@ -20,6 +20,62 @@
         "email": "alebaj9917@gmail.com",
         "github": "aleksanderbajor",
         "group": "WZIS1-1111"
+},
+    {
+        "firstname": "Pawe³",
+        "lastname": "Wa¿ydr¹g",
+        "email": "pwazydrag@gmail.com",
+        "github": "pwazydrag",
+        "grupa": "WZIS1-1112"
+    },
+    {
+        "firstname": "Kamil",
+        "lastname": "Szczotka",
+        "email": "s215621@student.uek.krakow.pl",
+        "github": "SzczotkaKamil",
+        "grupa": "WZIS1-1112"
+    },
+	  {
+        "firstname": "PrzemysÅ‚aw",
+        "lastname": "Polak",
+        "email": "przemekpolak138gmail.com",
+        "github": "PrzemekPolak",
+        "group": "WZIS1-1112"
+    },
+	  {
+        "firstname": "Viktoriia",
+        "lastname": "Kravchuk",
+        "email": "vikakravchuk2@gmail.com",
+        "github": "viktoriia-kravchuk",
+        "grupa": "WZISS1-1112"
+    },
+    {
+        "firstname": "Piotr",
+        "lastname": "WoÅºniak",
+        "email": "sev.webmaster.k@gmail.com",
+        "github": "TraceOnBrainOff",
+        "group": "WZISS1-1112"
+    },
+    {
+        "firstname": "Volodymyr ",
+        "lastname": "tymchyshyn",
+        "email": "1235vol@gmail.com",
+        "github": "vtymch12",
+        "group": "WZIS1-1112"
+    },
+	  {
+        "firstname": "MichaÅ‚",
+        "lastname": "Rusinowski",
+        "email": "michalr101@gmail.com",
+        "github": "mrusinowski",
+		    "group": "WZIS1-1112"
+	  },
+	  {
+        "firstname": "Patryk",
+        "lastname": "TabiÅ›",
+        "email": "p.tabis@protonmail.com",
+        "github": "ptabis",
+        "group": "WZIS1-1112"
     },
     {
         "firstname": "Roman",
@@ -49,7 +105,7 @@
     },
     {
         "firstname": "Anna",
-        "lastname": "Frączek",
+        "lastname": "FrÄ…czek",
         "email": "ania.f20000618@gmail.com",
         "github": "annafraczek"
     },
@@ -94,7 +150,7 @@
         "group": "WZISS1-1111"
     },
     {
-        "firstname": "Michał",
+        "firstname": "MichaÅ‚",
         "lastname": "Janaszek",
         "email": "michta0010@wp.pl",
         "github": "JanaszekM",
@@ -122,7 +178,7 @@
     },
     {
         "firstname": "Krzysztof",
-        "lastname": "Górski",
+        "lastname": "GÃ³rski",
         "email": "kgorski399@gmail.com",
         "github": "gorskik"
     },
@@ -135,7 +191,7 @@
     },
     {
         "firstname": "Dominik",
-        "lastname": "Bąk",
+        "lastname": "BÄ…k",
         "email": "dominikbak93@gmail.com",
         "github": "bakdominik",
         "group": "student"
@@ -147,10 +203,73 @@
         "github": "BassaraK"
     },
     {
+        "firstname": "Alahrjuk",
+        "lastname": "Makotakghktdk",
+        "email": "alamakota@ktytyinteria.pl",
+        "github": "alamakota",
+        "group": "WZISS1-1111"
+    },
+	  {
+        "firstname": "PaweÅ‚",
+        "lastname": "Pluta",
+        "email": "pawelpluta58@gmail.com",
+        "github": "PawelPlutaUek20",
+        "group": "WZISS1-1112"
+    },
+    {
         "firstname": "Ala",
         "lastname": "Makota",
         "email": "alamakota@interia.pl",
         "github": "alamakota",
         "group": "WZISS1-1111"
+	},
+  {
+		    "firstname": "Jan",
+        "lastname": "Podolanko",
+        "email": "jan.podolanko11@gmail.com",
+        "github": "jan-podolanko",
+        "group": "WZISS1-1112"
+    },
+	  {
+        "firstname": "Andrzej",
+        "lastname": "Krucan",
+        "email": "andrzejkrucan@gmail.com",
+        "github": "krucan-a",
+        "group": "student"
+    },
+	  {
+        "firstname": "Rafal",
+        "lastname": "Pussy",
+        "email": "enzetpl@gmail.com",
+        "github": "enzetpl",
+        "group": "WZISS1-1112"
+    },
+	  {
+        "firstname": "Sebastian",
+        "lastname": "Staszczyk",
+        "email": "sebastianstaszczyk.1999@gmail.com",
+        "github": "sebastianstasz",
+        "group": "student"
+    },
+    {
+        "firstname": "RafaÅ‚",
+        "lastname": "RÄ™bilas",
+        "email": "s215790@student.uek.krakow.pl",
+        "github": "RRebilas",
+        "group": "WZISS1-1112"
+    },
+	  {
+        "firstname": "Sebastian",
+        "lastname": "KudÅ‚a",
+        "email": "kudseb42@gmail.com",
+        "github": "kudseb",
+		    "group": "WZISS1-1112"
+    },
+    {
+        "firstname": Emil",
+        "lastname": "Stolarczyk",
+        "email": "s215803@student.uek.krakow.pl",
+        "github": "Tryor1",
+        "group": "WZISS1-1112"
     }
 }
