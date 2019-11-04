@@ -245,6 +245,13 @@
         <group>WZISS1-1111</group>
     </student>
     <student>
+        <firstname>Jan</firstname>
+        <lastname>Podolanko</lastname>
+        <email>jan.podolanko11@gmail.com</email>
+        <github>jan-podolanko</github>
+        <group>WZISS1-1112</group>
+    </student>
+    <student>
 	      <firstname>Marcin</firstname>
 	      <lastname>Twarog</lastname>
 	      <email>marcintw42@gmail.com</email>

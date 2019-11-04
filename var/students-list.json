@@ -1,8 +1,8 @@
 
 {
     {
-        "firstname": "Pawe�",
-        "lastname": "Wa�ydr�g",
+        "firstname": "Pawe³",
+        "lastname": "Wa¿ydr¹g",
         "email": "pwazydrag@gmail.com",
         "github": "pwazydrag",
         "grupa": "WZIS1-1112"
@@ -15,7 +15,7 @@
         "grupa": "WZIS1-1112"
     },
 	  {
-        "firstname": "Przemysław",
+        "firstname": "PrzemysÅ‚aw",
         "lastname": "Polak",
         "email": "przemekpolak138gmail.com",
         "github": "PrzemekPolak",
@@ -30,7 +30,7 @@
     },
     {
         "firstname": "Piotr",
-        "lastname": "Woźniak",
+        "lastname": "WoÅºniak",
         "email": "sev.webmaster.k@gmail.com",
         "github": "TraceOnBrainOff",
         "group": "WZISS1-1112"
@@ -43,7 +43,7 @@
         "group": "WZIS1-1112"
     },
 	  {
-        "firstname": "Michał",
+        "firstname": "MichaÅ‚",
         "lastname": "Rusinowski",
         "email": "michalr101@gmail.com",
         "github": "mrusinowski",
@@ -51,7 +51,7 @@
 	  },
 	  {
         "firstname": "Patryk",
-        "lastname": "Tabiś",
+        "lastname": "TabiÅ›",
         "email": "p.tabis@protonmail.com",
         "github": "ptabis",
         "group": "WZIS1-1112"
@@ -84,7 +84,7 @@
     },
     {
         "firstname": "Anna",
-        "lastname": "Frączek",
+        "lastname": "FrÄ…czek",
         "email": "ania.f20000618@gmail.com",
         "github": "annafraczek"
     },
@@ -129,7 +129,7 @@
         "group": "WZISS1-1111"
     },
     {
-        "firstname": "Michał",
+        "firstname": "MichaÅ‚",
         "lastname": "Janaszek",
         "email": "michta0010@wp.pl",
         "github": "JanaszekM",
@@ -157,7 +157,7 @@
     },
     {
         "firstname": "Krzysztof",
-        "lastname": "Górski",
+        "lastname": "GÃ³rski",
         "email": "kgorski399@gmail.com",
         "github": "gorskik"
     },
@@ -170,7 +170,7 @@
     },
     {
         "firstname": "Dominik",
-        "lastname": "Bąk",
+        "lastname": "BÄ…k",
         "email": "dominikbak93@gmail.com",
         "github": "bakdominik",
         "group": "student"
@@ -189,7 +189,7 @@
         "group": "WZISS1-1111"
     },
 	  {
-        "firstname": "Paweł",
+        "firstname": "PaweÅ‚",
         "lastname": "Pluta",
         "email": "pawelpluta58@gmail.com",
         "github": "PawelPlutaUek20",
@@ -201,6 +201,13 @@
         "email": "alamakota@interia.pl",
         "github": "alamakota",
         "group": "WZISS1-1111"
+	},
+  {
+		    "firstname": "Jan",
+        "lastname": "Podolanko",
+        "email": "jan.podolanko11@gmail.com",
+        "github": "jan-podolanko",
+        "group": "WZISS1-1112"
     },
 	  {
         "firstname": "Andrzej",
@@ -224,15 +231,15 @@
         "group": "student"
     },
     {
-        "firstname": "Rafał",
-        "lastname": "Rębilas",
+        "firstname": "RafaÅ‚",
+        "lastname": "RÄ™bilas",
         "email": "s215790@student.uek.krakow.pl",
         "github": "RRebilas",
         "group": "WZISS1-1112"
     },
 	  {
         "firstname": "Sebastian",
-        "lastname": "Kudła",
+        "lastname": "KudÅ‚a",
         "email": "kudseb42@gmail.com",
         "github": "kudseb",
 		    "group": "WZISS1-1112"
