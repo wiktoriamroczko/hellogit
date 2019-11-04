@@ -43,7 +43,6 @@
         <github>PrzemekPolak</github>
         <group>WZIS1-1112</group>
     </student>
-<students>
     <student>
         <firstname>Kamil</firstname>
         <lastname>Krzych</lastname>
@@ -64,6 +63,13 @@
         <email>alebaj9917@gmail.com</email>
         <github>aleksanderbajor</github>
         <group>WZIS1-1111</group>
+    </student>
+    <student>
+        <firstname>Oskar</firstname>
+        <lastname>Kozaczka</lastname>
+        <email>oskaro0@vp.pl</email>
+        <github>OskarKozaczka</github>
+        <group>WZISS-1</group>
     </student>
     <student>
         <firstname>Piotr</firstname>
@@ -106,6 +112,13 @@
         <email>study@romanjankowski.com</email>
         <github>youaresoroman</github>
         <group>WZISS1-1111</group>
+    </student>
+    <student>
+        <firstname>Wojciech</firstname>
+        <lastname>Trygar</lastname?>
+        <email>chandelier.wt@gmail.com</email>
+        <github>Wtrygar</github>
+        <group>WZISS1-1112</group>
     </student>
     <student>
         <firstname>Viktoriia</firstname>
