@@ -1,6 +1,20 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
+    <student>
+        <firstname>Eryk</firstname>
+        <lastname>Urban</lastname>
+        <email>eryk55555555@gmail.com</email>
+        <github>ErykUrban</github>
+        <group>student</group>
+    </student>
+    <student>
+        <firstname>Eryk</firstname>
+        <lastname>Urban</lastname>
+        <email>eryk55555555@gmail.com</email>
+        <github>ErykUrban</github>
+        <group>WZIS1-1112</group>
+     </student>
      <student>
         <firstname>Katarzyna</firstname>
         <lastname>Wojcik</lastname>
@@ -37,11 +51,25 @@
         <group>WZIS1-1111</group>
     </student>
     <student>
+        <firstname>Katarzyna</firstname>
+        <lastname>Wojcik</lastname>
+        <email>fiona_17@interia.pl</email>
+        <github>Fiona84</github>
+        <group>Teacher</group>
+    </student>
+    <student>
         <firstname>Roman</firstname>
         <lastname>Iankovksii</lastname>
         <email>study@romanjankowski.com</email>
         <github>youaresoroman</github>
         <group>WZISS1-1111</group>
+    </student>
+    <student>
+        <firstname>Viktoriia</firstname>
+        <lastname>Kravchuk</lastname>
+        <email>vikakravchuk2@gmail.com</email>
+        <github>viktoriia-kravchuk</github>
+        <group>Student</group>
     </student>
     <student>
         <firstname>Oskar</firstname>
@@ -104,6 +132,13 @@
         <email>filipqwerty32@gmail.com</email>
         <github>FilipJaszczyk</github>
         <group>WZIS1-1111</group>
+    </student>
+    <student>
+	      <firstname>Pawel</firstname>
+        <lastname>Pluta</lastname>
+        <email>pawelpluta58@gmail.com</email>
+        <github>PawelPlutaUek20</github>
+        <group>WZIS1-1112</group>
     </student>
     <student>
         <firstname>Wiktor</firstname>
@@ -182,10 +217,46 @@
         <group>WZISS1-1111</group>
     </student>
     <student>
-        <firstname>Sebastian</firstname>
-        <lastname>Kudła</lastname>
-        <email>kudseb42@gmail.com</email>
-        <github>kudseb</github>
+        <firstname>Rafal</firstname>
+        <lastname>Pussy</lastname>
+        <email>enzetpl@gmail.com</email>
+        <github>enzetpl</github>
         <group>WZISS1-1112</group>
     </student>
-</students>
+    <student>
+	      <firstname>Sebastian</firstname>
+	      <lastname>Staszczyk</lastname>
+	      <email>sebastianstaszczyk.1999@gmail.com</email>
+	      <github>sebastianstasz</github>
+	      <group>Student</group>
+    </student>
+	  <student>
+        	<firstname>Rafał</firstname>
+        	<lastname>Rębilas</lastname>
+        	<email>s215790@student.uek.krakow.pl</email>
+        	<github>RRebilas</github>
+        	<group>WZISS1-1112</group>
+    	</student>
+      <student>
+          <firstname>Sebastian</firstname>
+          <lastname>Kudła</lastname>
+          <email>kudseb42@gmail.com</email>
+          <github>kudseb</github>
+          <group>WZISS1-1112</group>
+      </student>
+      <student>
+        <firstname>Ala</firstname>
+        <lastname>Makota</lastname>
+        <email>alamakota@interia.pl</email>
+        <github>alamakota</github>
+        <group>WZISS1-1111</group>
+    </student>
+    <student>
+	      <firstname>Eryk</firstname>
+	      <lastname>Urban</lastname>
+	      <email>eryk55555555@gmail</email>
+	      <github>ErykUrban</github>
+	      <group>WZISS1-1112</group>
+    </student>
+ </students>
+
