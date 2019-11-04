@@ -114,7 +114,7 @@
         <group>WZIS1-1111</group>
     </student>
     <student>
-	<firstname>Pawel</firstname>
+	      <firstname>Pawel</firstname>
         <lastname>Pluta</lastname>
         <email>pawelpluta58@gmail.com</email>
         <github>PawelPlutaUek20</github>
@@ -195,6 +195,13 @@
         <email>alamakota@interia.pl</email>
         <github>alamakota</github>
         <group>WZISS1-1111</group>
+    </student>
+    <student>
+	      <firstname>Sebastian</firstname>
+	      <lastname>Staszczyk</lastname>
+	      <email>sebastianstaszczyk.1999@gmail.com</email>
+	      <github>sebastianstasz</github>
+	      <group>Student</group>
     </student>
 	  <student>
         	<firstname>Rafał</firstname>

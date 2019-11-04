@@ -28,7 +28,7 @@
         "github": "aleksanderbajor",
         "group": "WZIS1-1111"
     },
-	{
+	  {
         "firstname": "Patryk",
         "lastname": "Tabiś",
         "email": "p.tabis@protonmail.com",
@@ -174,7 +174,14 @@
         "github": "alamakota",
         "group": "WZISS1-1111"
     },
-	  {
+    {
+        "firstname": "Sebastian",
+        "lastname": "Staszczyk",
+        "email": "sebastianstaszczyk.1999@gmail.com",
+        "github": "sebastianstasz",
+        "group": "student"
+    },
+    {
         "firstname": "Rafał",
         "lastname": "Rębilas",
         "email": "s215790@student.uek.krakow.pl",
@@ -188,4 +195,5 @@
         "github": "kudseb",
 		    "group": "WZISS1-1112"
     }
+
 }
