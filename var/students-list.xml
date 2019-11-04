@@ -51,6 +51,13 @@
         <group>WZIS1-1111</group>
     </student>
     <student>
+        <firstname>Emil</firstname>
+        <lastname>Stolarczyk</lastname>
+        <email>s215803@student.uek.krakow.pl</email>
+        <github>Tryor1</github>
+        <group>WZISS1-1112</group>
+    </student>
+    <student>
         <firstname>Katarzyna</firstname>
         <lastname>Wojcik</lastname>
         <email>fiona_17@interia.pl</email>
