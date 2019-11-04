@@ -21,8 +21,15 @@
         <email>fiona_17@interia.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
+    </student
+    <student>
+        <firstname>Kamil</firstname>
+        <lastname>Szczotka</lastname>
+        <email>s215621@student.uek.krakow.pl</email>
+        <github>SzczotkaKamil</github>
+        <group>WZIS1-1112</group>
     </student>
-  <student>
+    <student>
         <firstname>Michał</firstname>
         <lastname>Rusinowski</lastname>
         <email>michalr101@gmail.com</email>
