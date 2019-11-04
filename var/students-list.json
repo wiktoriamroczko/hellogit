@@ -1,6 +1,27 @@
 
 {
     {
+        "firstname": "Katarzyna",
+        "lastname": "Wójcik",
+        "email": "fiona_17@interia.pl",
+        "github": "Fiona84",
+        "grupa": "Teachers"
+    },
+	{
+		"firstname": "Kamil",
+        "lastname": "Krzych",
+        "email": "kamil.krzych@poczta.fm",
+        "github": "KKrzych09",
+        "group": "WZISS1-1112"
+	},
+    {
+        "firstname": "Aleksander",
+        "lastname": "Bajor",
+        "email": "alebaj9917@gmail.com",
+        "github": "aleksanderbajor",
+        "group": "WZIS1-1111"
+},
+    {
         "firstname": "Pawe³",
         "lastname": "Wa¿ydr¹g",
         "email": "pwazydrag@gmail.com",
