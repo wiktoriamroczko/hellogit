@@ -1,6 +1,20 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
 <students>
+    <student>
+        <firstname>Eryk</firstname>
+        <lastname>Urban</lastname>
+        <email>eryk55555555@gmail.com</email>
+        <github>ErykUrban</github>
+        <group>student</group>
+    </student>
+    <student>
+        <firstname>Eryk</firstname>
+        <lastname>Urban</lastname>
+        <email>eryk55555555@gmail.com</email>
+        <github>ErykUrban</github>
+        <group>WZIS1-1112</group>
+     </student>
      <student>
         <firstname>Katarzyna</firstname>
         <lastname>Wojcik</lastname>
@@ -29,14 +43,13 @@
         <github>aleksanderbajor</github>
         <group>WZIS1-1111</group>
     </student>
-<student>
+    <student>
         <firstname>Katarzyna</firstname>
         <lastname>Wojcik</lastname>
         <email>fiona_17@interia.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
-
     <student>
         <firstname>Roman</firstname>
         <lastname>Iankovksii</lastname>
@@ -44,7 +57,7 @@
         <github>youaresoroman</github>
         <group>WZISS1-1111</group>
     </student>
-<student>
+    <student>
         <firstname>Viktoriia</firstname>
         <lastname>Kravchuk</lastname>
         <email>vikakravchuk2@gmail.com</email>
@@ -224,4 +237,19 @@
           <github>kudseb</github>
           <group>WZISS1-1112</group>
       </student>
-</students>
+      <student>
+        <firstname>Ala</firstname>
+        <lastname>Makota</lastname>
+        <email>alamakota@interia.pl</email>
+        <github>alamakota</github>
+        <group>WZISS1-1111</group>
+    </student>
+    <student>
+	      <firstname>Eryk</firstname>
+	      <lastname>Urban</lastname>
+	      <email>eryk55555555@gmail</email>
+	      <github>ErykUrban</github>
+	      <group>WZISS1-1112</group>
+    </student>
+ </students>
+
