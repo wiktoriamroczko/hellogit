@@ -174,11 +174,18 @@
         <github>alamakota</github>
         <group>WZISS1-1111</group>
     </student>
-    <student>
-        <firstname>Sebastian</firstname>
-        <lastname>Kudła</lastname>
-        <email>kudseb42@gmail.com</email>
-        <github>kudseb</github>
-        <group>WZISS1-1112</group>
-    </student>
+	  <student>
+        	<firstname>Rafał</firstname>
+        	<lastname>Rębilas</lastname>
+        	<email>s215790@student.uek.krakow.pl</email>
+        	<github>RRebilas</github>
+        	<group>WZISS1-1112</group>
+    	</student>
+      <student>
+          <firstname>Sebastian</firstname>
+          <lastname>Kudła</lastname>
+          <email>kudseb42@gmail.com</email>
+          <github>kudseb</github>
+          <group>WZISS1-1112</group>
+      </student>
 </students>
