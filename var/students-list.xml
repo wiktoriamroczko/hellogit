@@ -217,6 +217,13 @@
         <group>WZISS1-1111</group>
     </student>
     <student>
+	      <firstname>Marcin</firstname>
+	      <lastname>Twarog</lastname>
+	      <email>marcintw42@gmail.com</email>
+	      <github>twarogm</github>
+	      <group>WZISS1-1112</gropu>
+    </student>
+    <student>
         <firstname>Rafal</firstname>
         <lastname>Pussy</lastname>
         <email>enzetpl@gmail.com</email>
@@ -259,4 +266,3 @@
 	      <group>WZISS1-1112</group>
     </student>
  </students>
-
