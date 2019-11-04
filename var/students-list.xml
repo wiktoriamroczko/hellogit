@@ -30,6 +30,20 @@
         <group>WZIS1-1112</group>
     </student>
     <student>
+        <firstname>Przemysław</firstname>
+        <lastname>Polak</lastname>
+        <email>przemekpolak138@gmail.com</email>
+        <github>PrzemekPolak</github>
+        <group>WZIS1-1112</group>
+    </student>
+    <student>
+        <firstname>Aleksander</firstname>
+        <lastname>Bajor</lastname>
+        <email>alebaj9917@gmail.com</email>
+        <github>aleksanderbajor</github>
+        <group>WZIS1-1111</group>
+    </student>
+    <student>
         <firstname>Piotr</firstname>
         <lastname>Woźniak</lastname>
         <email>sev.webmaster.k@gmail.com</email>
@@ -259,17 +273,17 @@
           <group>WZISS1-1112</group>
       </student>
       <student>
-        <firstname>Ala</firstname>
-        <lastname>Makota</lastname>
-        <email>alamakota@interia.pl</email>
-        <github>alamakota</github>
-        <group>WZISS1-1111</group>
+          <firstname>Ala</firstname>
+          <lastname>Makota</lastname>
+          <email>alamakota@interia.pl</email>
+          <github>alamakota</github>
+          <group>WZISS1-1111</group>
     </student>
     <student>
-	      <firstname>Eryk</firstname>
-	      <lastname>Urban</lastname>
-	      <email>eryk55555555@gmail</email>
-	      <github>ErykUrban</github>
-	      <group>WZISS1-1112</group>
+	        <firstname>Eryk</firstname>
+	        <lastname>Urban</lastname>
+	        <email>eryk55555555@gmail</email>
+	        <github>ErykUrban</github>
+	        <group>WZISS1-1112</group>
     </student>
  </students>
