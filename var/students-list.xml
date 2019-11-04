@@ -29,12 +29,27 @@
         <github>aleksanderbajor</github>
         <group>WZIS1-1111</group>
     </student>
+<student>
+        <firstname>Katarzyna</firstname>
+        <lastname>Wojcik</lastname>
+        <email>fiona_17@interia.pl</email>
+        <github>Fiona84</github>
+        <group>Teacher</group>
+    </student>
+
     <student>
         <firstname>Roman</firstname>
         <lastname>Iankovksii</lastname>
         <email>study@romanjankowski.com</email>
         <github>youaresoroman</github>
         <group>WZISS1-1111</group>
+    </student>
+<student>
+        <firstname>Viktoriia</firstname>
+        <lastname>Kravchuk</lastname>
+        <email>vikakravchuk2@gmail.com</email>
+        <github>viktoriia-kravchuk</github>
+        <group>Student</group>
     </student>
     <student>
         <firstname>Oskar</firstname>
